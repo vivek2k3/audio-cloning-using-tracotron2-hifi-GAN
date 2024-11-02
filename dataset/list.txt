@@ -1,0 +1,500 @@
+/content/TTS-TT2/wavs/1.wav| The sweater is made from 100% wool.
+/content/TTS-TT2/wavs/2.wav| Please pass the salt and pepper.
+/content/TTS-TT2/wavs/3.wav| The museum exhibit opens next weekend.
+/content/TTS-TT2/wavs/4.wav| The less you want something, the less you are thinking about it, the less you are obsessing over it, the more you are going to do it in a natural way.
+/content/TTS-TT2/wavs/5.wav| The exchange gives on Christmas Eve.
+/content/TTS-TT2/wavs/6.wav| The music was so loud that it vibrated through the room.
+/content/TTS-TT2/wavs/7.wav| They offer yoga classes at the community center.
+/content/TTS-TT2/wavs/8.wav| Can you help me find my glasses?
+/content/TTS-TT2/wavs/9.wav| She practices yoga to relax and destress.
+/content/TTS-TT2/wavs/10.wav| Is there a reason you're avoiding the question?
+/content/TTS-TT2/wavs/11.wav| You would be the last one to get paid for your time.
+/content/TTS-TT2/wavs/12.wav| In an investment firm they are buying equity.
+/content/TTS-TT2/wavs/13.wav| The more you are going to do it for yourself, you are going to do it in a way you are good at and you are going to stick with it.
+/content/TTS-TT2/wavs/14.wav| Society will pay you for creating things it wants.
+/content/TTS-TT2/wavs/15.wav| The book was better than the movie.
+/content/TTS-TT2/wavs/16.wav| He found a rare stamp for his collection.
+/content/TTS-TT2/wavs/17.wav| Why is the sky blue and not some other color?
+/content/TTS-TT2/wavs/18.wav| The jog every morning to keep fit.
+/content/TTS-TT2/wavs/19.wav| This is one of the top schools in the country.
+/content/TTS-TT2/wavs/20.wav| So, my definition of wealth is much more businesses and assets that can earn while you sleep.
+/content/TTS-TT2/wavs/21.wav| Apply specific knowledge with leverage and eventually you will get what you deserve.
+/content/TTS-TT2/wavs/22.wav| Money is how we transfer wealth.
+/content/TTS-TT2/wavs/23.wav| There is care would be, you would probably be the last one to get your capital back out.
+/content/TTS-TT2/wavs/24.wav| I need directions to the nearest gas station.
+/content/TTS-TT2/wavs/25.wav| Lightning struck the old O3.
+/content/TTS-TT2/wavs/26.wav| He collects vintage cars from the 1950s.
+/content/TTS-TT2/wavs/27.wav| I would like to withdraw $50 from my account.
+/content/TTS-TT2/wavs/28.wav| I was basically telling people I am retiring, I am not working.
+/content/TTS-TT2/wavs/29.wav| The novel unfolds in a small coastal town.
+/content/TTS-TT2/wavs/30.wav| These are the roots too well.
+/content/TTS-TT2/wavs/31.wav| It's probably not going to work.
+/content/TTS-TT2/wavs/32.wav| The air-filled crisp and clean this morning.
+/content/TTS-TT2/wavs/33.wav| She made a list of all groceries we need.
+/content/TTS-TT2/wavs/34.wav| But usually, the real wealth is created by starting your own companies or even by investing.
+/content/TTS-TT2/wavs/35.wav| Can we agree on a date for the next meeting?
+/content/TTS-TT2/wavs/36.wav| I am thinking of painting my room green.
+/content/TTS-TT2/wavs/37.wav| I am allergic to shellfish so please keep that in mind.
+/content/TTS-TT2/wavs/38.wav| Let's prioritize the most urgent tasks.
+/content/TTS-TT2/wavs/39.wav| He is quite adept at solving complex mathematical problems.
+/content/TTS-TT2/wavs/40.wav| I've lost track of time.
+/content/TTS-TT2/wavs/41.wav| Judgment requires experience but can be built faster by learning foundational skills.
+/content/TTS-TT2/wavs/42.wav| Even a house can be a form of wealth because you can rent it out.
+/content/TTS-TT2/wavs/43.wav| Can you explain why this is important?
+/content/TTS-TT2/wavs/44.wav| Become the best in the world at what you do.
+/content/TTS-TT2/wavs/45.wav| Keep redefining what you do until this is true.
+/content/TTS-TT2/wavs/46.wav| The old photographs were faded but still cherished.
+/content/TTS-TT2/wavs/47.wav| It's difficult to say but I think you're right.
+/content/TTS-TT2/wavs/48.wav| Can you believe how quickly time passes?
+/content/TTS-TT2/wavs/49.wav| Let's keep an eye on the weather forecast.
+/content/TTS-TT2/wavs/50.wav| I can't believe we got lost in the city.
+/content/TTS-TT2/wavs/51.wav| Today seems like a perfect day for something new.
+/content/TTS-TT2/wavs/52.wav| Wealth is assets that earn while you sleep.
+/content/TTS-TT2/wavs/53.wav| There is no skill called Business, Award Business, Magazines and Business Classes.
+/content/TTS-TT2/wavs/54.wav| You could also own it as an owner where you started the company.
+/content/TTS-TT2/wavs/55.wav| We were in a part of New York City that isn't very safe.
+/content/TTS-TT2/wavs/56.wav| That is one definition of art.
+/content/TTS-TT2/wavs/57.wav| Who is responsible for locking the door at the end of the day?
+/content/TTS-TT2/wavs/58.wav| The bookcase need to be assembled before it can be used.
+/content/TTS-TT2/wavs/59.wav| I was mostly doing things for the sheer fun of it.
+/content/TTS-TT2/wavs/60.wav| Everyone who really makes money at some point owns a piece of a product, a business or some IP.
+/content/TTS-TT2/wavs/61.wav| He repaired the leak in the roof last weekend.
+/content/TTS-TT2/wavs/62.wav| It doesn't come through the hours.
+/content/TTS-TT2/wavs/63.wav| I accidentally left my umbrella on the train.
+/content/TTS-TT2/wavs/64.wav| The meeting was postponed due to unforeseen circumstances.
+/content/TTS-TT2/wavs/65.wav| People seem to think you can create wealth make money through work.
+/content/TTS-TT2/wavs/66.wav| The lecture was postponed until further notice.
+/content/TTS-TT2/wavs/67.wav| Can you tell me more about the history of this building?
+/content/TTS-TT2/wavs/68.wav| Her advice turned out to be invaluable.
+/content/TTS-TT2/wavs/69.wav| Study Microeconomics, Game Theory, Psychology, Persuasion, Ethics, Mathematics and Computers.
+/content/TTS-TT2/wavs/70.wav| Steve Jobs figured out society would want smartphones.
+/content/TTS-TT2/wavs/71.wav| She received a scholarship for her achievements.
+/content/TTS-TT2/wavs/72.wav| Her handwriting is so neat and legible.
+/content/TTS-TT2/wavs/73.wav| Make sure to send me the report by tomorrow.
+/content/TTS-TT2/wavs/74.wav| Give me a liver long enough and a place to stand and I will move the earth.
+/content/TTS-TT2/wavs/75.wav| He looked uncertain but agreed anyway.
+/content/TTS-TT2/wavs/76.wav| Can you explain how this machine works?
+/content/TTS-TT2/wavs/77.wav| I've never been good at math.
+/content/TTS-TT2/wavs/78.wav| It's important to save money for unforeseen expenses.
+/content/TTS-TT2/wavs/79.wav| It's not about winning, it's about playing fair.
+/content/TTS-TT2/wavs/80.wav| Almost everything in your house, in your workplace and on the street used to be technology at one point in time.
+/content/TTS-TT2/wavs/81.wav| Capital means money.
+/content/TTS-TT2/wavs/82.wav| Reading is faster than listening, doing is faster than watching.
+/content/TTS-TT2/wavs/83.wav| If you have hobbies around your intellectual curiosity, you are more likely to develop these passions.
+/content/TTS-TT2/wavs/84.wav| The team wore jerseys in different shades of blue.
+/content/TTS-TT2/wavs/85.wav| She sings in the community choir on weekends.
+/content/TTS-TT2/wavs/86.wav| Ownership is really important.
+/content/TTS-TT2/wavs/87.wav| He hesitated before entering the room.
+/content/TTS-TT2/wavs/88.wav| Whether it's business, exercise, romance, friendship, whatever, I think the meaning of life is to do things for their own sake.
+/content/TTS-TT2/wavs/89.wav| The concert was sold out within hours.
+/content/TTS-TT2/wavs/90.wav| She decided to write a letter instead of sending an email.
+/content/TTS-TT2/wavs/91.wav| The year I generated the most wealth for myself was actually the year I worked the least hard and care the least about the future.
+/content/TTS-TT2/wavs/92.wav| The garden will need some new flowers come spring.
+/content/TTS-TT2/wavs/93.wav| Whether it's business, exercise, romance, friendship, whatever, I think the meaning of life is to do things for their own sake.
+/content/TTS-TT2/wavs/94.wav| She took a deep breath and dived into the pool.
+/content/TTS-TT2/wavs/95.wav| We live in an age of infinite leverage and the economic rewards for genuine intellectual curiosity have never been higher.
+/content/TTS-TT2/wavs/96.wav| Basically the library was my afterschool center.
+/content/TTS-TT2/wavs/97.wav| I need a new battery for my watch.
+/content/TTS-TT2/wavs/98.wav| Ownership is really important.
+/content/TTS-TT2/wavs/99.wav| There are consequences to actions such as these.
+/content/TTS-TT2/wavs/100.wav| He's always been fascinated by ancient history.
+/content/TTS-TT2/wavs/101.wav| We need to finalize the guest list for the wedding.
+/content/TTS-TT2/wavs/102.wav| a computer in their pocket that had all the phone capability times 100 and was easy to use.
+/content/TTS-TT2/wavs/103.wav| Naval Ravikanth is an icon in Silicon Valley and start-up culture around the world.
+/content/TTS-TT2/wavs/104.wav| You should be too busy to do coffee while still keeping an uncluttered calendar.
+/content/TTS-TT2/wavs/105.wav| The roses in the garden are blooming.
+/content/TTS-TT2/wavs/106.wav| I can't find my keys anywhere.
+/content/TTS-TT2/wavs/107.wav| I have the ability to absorb data, obsess about it and break it down.
+/content/TTS-TT2/wavs/108.wav| There are other people to whom these things would be hard.
+/content/TTS-TT2/wavs/109.wav| The climate in this region varies dramatically.
+/content/TTS-TT2/wavs/110.wav| Keep your voice down. This is a library.
+/content/TTS-TT2/wavs/111.wav| He is not only a good teacher but also a great mentor.
+/content/TTS-TT2/wavs/112.wav| You run into them all the time in startups and venture capital.
+/content/TTS-TT2/wavs/113.wav| Work as hard as you can.
+/content/TTS-TT2/wavs/114.wav| He whispered the directions in her ear.
+/content/TTS-TT2/wavs/115.wav| How many miles did you run this morning?
+/content/TTS-TT2/wavs/116.wav| The ice cream melted under the hot sun.
+/content/TTS-TT2/wavs/117.wav| He often forgets his keys which is really annoying.
+/content/TTS-TT2/wavs/118.wav| We need to upgrade our computer systems soon.
+/content/TTS-TT2/wavs/119.wav| Ironically, when you do things for their own sake, you create your best work.
+/content/TTS-TT2/wavs/120.wav| Why don't we take a different route this morning?
+/content/TTS-TT2/wavs/121.wav| I don't think life is that hard.
+/content/TTS-TT2/wavs/122.wav| Anticipation for our vices pulls us into the future, eliminating vices making it easier to be present.
+/content/TTS-TT2/wavs/123.wav| Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now.
+/content/TTS-TT2/wavs/124.wav| How many ingredients do we need for the recipe?
+/content/TTS-TT2/wavs/125.wav| The artwork in this gallery is from the 19th century.
+/content/TTS-TT2/wavs/126.wav| Please ensure the windows are closed before leaving.
+/content/TTS-TT2/wavs/127.wav| The ancient ruins were covered in vines.
+/content/TTS-TT2/wavs/128.wav| He studies archaeology at the university.
+/content/TTS-TT2/wavs/129.wav| The recipe needs a pinch of salt to enhance the flavor.
+/content/TTS-TT2/wavs/130.wav| I can't seem to find my wallet anywhere.
+/content/TTS-TT2/wavs/131.wav| Happiness is a very evolving thing, I think, like all the great questions.
+/content/TTS-TT2/wavs/132.wav| You can very slowly but steadily and methodically improve your happiness.
+/content/TTS-TT2/wavs/133.wav| The little girl hugged her teddy bear tightly.
+/content/TTS-TT2/wavs/134.wav| The library is on the corner of fifth and L.
+/content/TTS-TT2/wavs/135.wav| He laughed despite himself.
+/content/TTS-TT2/wavs/136.wav| I didn't have many friends so I wasn't very confident.
+/content/TTS-TT2/wavs/137.wav| Pick business partners with high intelligence, energy and above all, integrity.
+/content/TTS-TT2/wavs/138.wav| Can you save a seat for me at the concert?
+/content/TTS-TT2/wavs/139.wav| You are waiting for your moment when something emerges in the world, they need a skill set and you are uniquely qualified.
+/content/TTS-TT2/wavs/140.wav| This is the restricted area, please turn back.
+/content/TTS-TT2/wavs/141.wav| He changed the tire by himself.
+/content/TTS-TT2/wavs/142.wav| Can you please quiet down? I'm trying to concentrate.
+/content/TTS-TT2/wavs/143.wav| You get rewarded by society for giving it what it wants and doesn't know how to get elsewhere.
+/content/TTS-TT2/wavs/144.wav| All the returns in life, whether in wealth, relationships or knowledge come from compound interest.
+/content/TTS-TT2/wavs/145.wav| I think it's time to update us off where?
+/content/TTS-TT2/wavs/146.wav| Her presentation was very well received.
+/content/TTS-TT2/wavs/147.wav| The conference will be held in a virtual format this year.
+/content/TTS-TT2/wavs/148.wav| We moved to the US when we were very young.
+/content/TTS-TT2/wavs/149.wav| Then you are playing the money game and then you are playing the status game.
+/content/TTS-TT2/wavs/150.wav| The building was constructed in the early 20th century.
+/content/TTS-TT2/wavs/151.wav| I accidentally dropped your book in the water.
+/content/TTS-TT2/wavs/152.wav| I hang around with happy people.
+/content/TTS-TT2/wavs/153.wav| Let's check the accuracy of these figures.
+/content/TTS-TT2/wavs/154.wav| Can we make a copy of this document?
+/content/TTS-TT2/wavs/155.wav| He is looking forward to the skiing trip next month.
+/content/TTS-TT2/wavs/156.wav| Can you believe this incredible view?
+/content/TTS-TT2/wavs/157.wav| Please turn off the lights when you leave the room.
+/content/TTS-TT2/wavs/158.wav| Winning or losing does not matter to them.
+/content/TTS-TT2/wavs/159.wav| What if this life is the paradise we were promised and we are just squandering it?
+/content/TTS-TT2/wavs/160.wav| Please turn off the lights when you leave the room.
+/content/TTS-TT2/wavs/161.wav| When you are a little kid, you go to your mom and ask.
+/content/TTS-TT2/wavs/162.wav| He has been working on his thesis for several months.
+/content/TTS-TT2/wavs/163.wav| The Film Festival showcases international movies.
+/content/TTS-TT2/wavs/164.wav| She ordered a salad for lunch.
+/content/TTS-TT2/wavs/165.wav| A lot of her unhappiness comes from comparing things from the past to the present.
+/content/TTS-TT2/wavs/166.wav| I think we make it hard.
+/content/TTS-TT2/wavs/167.wav| The pie is just out of the oven and smells delicious.
+/content/TTS-TT2/wavs/168.wav| He made a sandwich with plenty of lettuce and tomato.
+/content/TTS-TT2/wavs/169.wav| The pie is just out of the oven and smells delicious.
+/content/TTS-TT2/wavs/170.wav| She teaches Spanish at the local high school.
+/content/TTS-TT2/wavs/171.wav| How early do we need to leave for the airport?
+/content/TTS-TT2/wavs/172.wav| The most interesting and most important form of leverage is the idea of products that have no marginal cost of replication.
+/content/TTS-TT2/wavs/173.wav| He plays the violin but he wants to learn the piano too.
+/content/TTS-TT2/wavs/174.wav| When you are a little kid, you go to your mom and ask.
+/content/TTS-TT2/wavs/175.wav| Let's discuss this over lunch.
+/content/TTS-TT2/wavs/176.wav| I spent a lot of time reading.
+/content/TTS-TT2/wavs/177.wav| How much time do we have left to finish this?
+/content/TTS-TT2/wavs/178.wav| How many copies of the document do you need?
+/content/TTS-TT2/wavs/179.wav| My Only Real Friends War Books
+/content/TTS-TT2/wavs/180.wav| She attended the lecture on modern art.
+/content/TTS-TT2/wavs/181.wav| The local theater is very rashi.
+/content/TTS-TT2/wavs/182.wav| Can you help me lift this box?
+/content/TTS-TT2/wavs/183.wav| This recipe calls for 3 cups of flour.
+/content/TTS-TT2/wavs/184.wav| He tapped his foot impatiently.
+/content/TTS-TT2/wavs/185.wav| The novel is based on historical events.
+/content/TTS-TT2/wavs/186.wav| You need to fasten your seat belt before leaving.
+/content/TTS-TT2/wavs/187.wav| I have decided to start my own business.
+/content/TTS-TT2/wavs/188.wav| Assalamualaikum連 lowest vulnerable dia.
+/content/TTS-TT2/wavs/189.wav| The stairs creak whenever someone walks on them.
+/content/TTS-TT2/wavs/190.wav| The library is open until 8 p.m. tonight.
+/content/TTS-TT2/wavs/191.wav| Every positive thought even has a seed of a negative thought within it and vice versa.
+/content/TTS-TT2/wavs/192.wav| By the time people realize they have enough money, they've lost their time and their wealth.
+/content/TTS-TT2/wavs/193.wav| This was only invented in the last few hundred years.
+/content/TTS-TT2/wavs/194.wav| She ordered a new book online.
+/content/TTS-TT2/wavs/195.wav| This culture was made from recycled materials.
+/content/TTS-TT2/wavs/196.wav| The team is working on a new software update.
+/content/TTS-TT2/wavs/197.wav| I never thought about it that way before.
+/content/TTS-TT2/wavs/198.wav| I just don't believe in anything from past.
+/content/TTS-TT2/wavs/199.wav| This pie tastes just like my grandmother used to make.
+/content/TTS-TT2/wavs/200.wav| Historically, I would say the legendary Buddha or Krishna Murthy, who stuff I like reading, they are successful in the sense that they step out of the game entirely.
+/content/TTS-TT2/wavs/201.wav| Let's make a toast to new beginnings.
+/content/TTS-TT2/wavs/202.wav| The new gym opened just around the corner.
+/content/TTS-TT2/wavs/203.wav| The painting was hung above the fireplace.
+/content/TTS-TT2/wavs/204.wav| The workshop covers basic and advanced techniques.
+/content/TTS-TT2/wavs/205.wav| There are basically three really big decisions you make in your early life.
+/content/TTS-TT2/wavs/206.wav| He sighed deeply and looked away.
+/content/TTS-TT2/wavs/207.wav| Please include all your contact information.
+/content/TTS-TT2/wavs/208.wav| I prefer using public transport to driving.
+/content/TTS-TT2/wavs/209.wav| The device operates at three different speeds.
+/content/TTS-TT2/wavs/210.wav| When you grow up, you are playing the school game or you are playing the social game.
+/content/TTS-TT2/wavs/211.wav| Can we schedule the meeting for next week?
+/content/TTS-TT2/wavs/212.wav| Happiness is such an overloaded word, I am not even sure what it means.
+/content/TTS-TT2/wavs/213.wav| When you grow up, you are playing the school game or you are playing the social game.
+/content/TTS-TT2/wavs/214.wav| Today I am an investor personally in about 200 companies.
+/content/TTS-TT2/wavs/215.wav| The concert starts at 8 o'clock sharp.
+/content/TTS-TT2/wavs/216.wav| All that, of course, in addition to being the founder and chairman of Angel List.
+/content/TTS-TT2/wavs/217.wav| There are basically three really big decisions you make in your early life.
+/content/TTS-TT2/wavs/218.wav| She played the piano beautifully.
+/content/TTS-TT2/wavs/219.wav| Please include all your contact information.
+/content/TTS-TT2/wavs/220.wav| I think this is made before.
+/content/TTS-TT2/wavs/221.wav| The painting was hung above the fireplace.
+/content/TTS-TT2/wavs/222.wav| We just play games in life.
+/content/TTS-TT2/wavs/223.wav| For me these days happiness is more about peace than it is about joy.
+/content/TTS-TT2/wavs/224.wav| He likes his coffee black with no sugar.
+/content/TTS-TT2/wavs/225.wav| It's a common mistake, don't worry about it.
+/content/TTS-TT2/wavs/226.wav| He adjusted his glasses before reading the document.
+/content/TTS-TT2/wavs/227.wav| He enjoys reading historical fiction novels.
+/content/TTS-TT2/wavs/228.wav| She enjoys a good mystery novel.
+/content/TTS-TT2/wavs/229.wav| They walked along the beach holding hands.
+/content/TTS-TT2/wavs/230.wav| This jacket is too large for me.
+/content/TTS-TT2/wavs/231.wav| Spend more time making the big decisions.
+/content/TTS-TT2/wavs/232.wav| He scored the winning goal in the last minute.
+/content/TTS-TT2/wavs/233.wav| The meeting lasted longer than expected.
+/content/TTS-TT2/wavs/234.wav| She loves watching mystery movies.
+/content/TTS-TT2/wavs/235.wav| It's a delicate situation that needs careful handling.
+/content/TTS-TT2/wavs/236.wav| She accidentally spilled water on her laptop.
+/content/TTS-TT2/wavs/237.wav| You have to say no to everything and free up your time so you can solve the important problems.
+/content/TTS-TT2/wavs/238.wav| Can we reschedule our appointment for next week?
+/content/TTS-TT2/wavs/239.wav| This area is known for its scenic beauty.
+/content/TTS-TT2/wavs/240.wav| Can you explain how this feature works?
+/content/TTS-TT2/wavs/241.wav| He's been acting strangely lately.
+/content/TTS-TT2/wavs/242.wav| If it's your internal purpose, the thing you most want to do, then sure, you'll be happy doing it.
+/content/TTS-TT2/wavs/243.wav| You can literally destroy your happiness if you spend all of your time living in delusions of the future.
+/content/TTS-TT2/wavs/244.wav| There's a chill in the air this morning.
+/content/TTS-TT2/wavs/245.wav| To me, the real winners are the ones who step out of the game entirely who don't even play the game who rise above it.
+/content/TTS-TT2/wavs/246.wav| We need to decide on a color for the living room walls.
+/content/TTS-TT2/wavs/247.wav| I learned how to make money because it was a necessity.
+/content/TTS-TT2/wavs/248.wav| Can you check the oil level in the car?
+/content/TTS-TT2/wavs/249.wav| Happiness is being satisfied with what you have.
+/content/TTS-TT2/wavs/250.wav| He practices meditation to help manage stress.
+/content/TTS-TT2/wavs/251.wav| any end goal will lead to another goal lead to another goal.
+/content/TTS-TT2/wavs/252.wav| Even when I was younger, I had a proper route and I watched dishes in the cafeteria.
+/content/TTS-TT2/wavs/253.wav| The stars are particularly bright tonight.
+/content/TTS-TT2/wavs/254.wav| Ignore people playing status games.
+/content/TTS-TT2/wavs/255.wav| What type of engine does this car have?
+/content/TTS-TT2/wavs/256.wav| We need to gather more information.
+/content/TTS-TT2/wavs/257.wav| Can you see the difference?
+/content/TTS-TT2/wavs/258.wav| The garden needs watering during the summer.
+/content/TTS-TT2/wavs/259.wav| I've never seen such a vibrant sunset.
+/content/TTS-TT2/wavs/260.wav| The contract was signed by both parties.
+/content/TTS-TT2/wavs/261.wav| They expressed their gratitude with the heartfelt thang.
+/content/TTS-TT2/wavs/262.wav| Books make for great friends because the best thinkers of the last few thousand years tell you their nuggets of wisdom.
+/content/TTS-TT2/wavs/263.wav| If you secretly despise wealth, it will elude you.
+/content/TTS-TT2/wavs/264.wav| This is the latest model of our product line.
+/content/TTS-TT2/wavs/265.wav| any end goal will lead to another goal lead to another goal.
+/content/TTS-TT2/wavs/266.wav| This celebrated their graduation with a big party.
+/content/TTS-TT2/wavs/267.wav| He is learning how to play the guitar.
+/content/TTS-TT2/wavs/268.wav| He is an expert in renewable energy sources.
+/content/TTS-TT2/wavs/269.wav| Success comes from dissatisfaction.
+/content/TTS-TT2/wavs/270.wav| He misplaced his keys somewhere in the house.
+/content/TTS-TT2/wavs/271.wav| I need a new recipe for this weekend's dinner party.
+/content/TTS-TT2/wavs/272.wav| We crave experiences that will make us be present, but cravings themselves take us from the present moment.
+/content/TTS-TT2/wavs/273.wav| He is learning how to play the guitar.
+/content/TTS-TT2/wavs/274.wav| I have lowered my identity.
+/content/TTS-TT2/wavs/275.wav| Those three are probably the three biggest ones.
+/content/TTS-TT2/wavs/276.wav| The river flows through the heart of the city.
+/content/TTS-TT2/wavs/277.wav| Those three are probably the three biggest ones.
+/content/TTS-TT2/wavs/278.wav| He forgot to set his alarm last night.
+/content/TTS-TT2/wavs/279.wav| At any given time, when you are walking down the streets, a very small percentage of your brain is focused on the present.
+/content/TTS-TT2/wavs/280.wav| We spend very little time deciding which relationship to get into.
+/content/TTS-TT2/wavs/281.wav| How do you like your stick coat?
+/content/TTS-TT2/wavs/282.wav| How do you like your stick coat?
+/content/TTS-TT2/wavs/283.wav| I don't think peace and purpose go together.
+/content/TTS-TT2/wavs/284.wav| The car needs an oil change.
+/content/TTS-TT2/wavs/285.wav| I was born poor and miserable.
+/content/TTS-TT2/wavs/286.wav| I am looking forward for our trip next month.
+/content/TTS-TT2/wavs/287.wav| They gain status by attacking people playing wealth creation games.
+/content/TTS-TT2/wavs/288.wav| Let's make sure everything is on schedule.
+/content/TTS-TT2/wavs/289.wav| Please keep off the grass.
+/content/TTS-TT2/wavs/290.wav| I am now pretty well off and I am very happy.
+/content/TTS-TT2/wavs/291.wav| How often do you go to the gym?
+/content/TTS-TT2/wavs/292.wav| The quick brown fox jumps over the lazy dog.
+/content/TTS-TT2/wavs/293.wav| Wealth is having assets that earn while you sleep.
+/content/TTS-TT2/wavs/294.wav| You are not going to get rich renting out your time.
+/content/TTS-TT2/wavs/295.wav| The trail leads through dense forest.
+/content/TTS-TT2/wavs/296.wav| Money is how we transfer time and wealth.
+/content/TTS-TT2/wavs/297.wav| The rest is planning the future or regretting the past.
+/content/TTS-TT2/wavs/298.wav| It's a straightforward process really.
+/content/TTS-TT2/wavs/299.wav| Can you turn the music down a little?
+/content/TTS-TT2/wavs/300.wav| Could you help me find the nearest bookstore?
+/content/TTS-TT2/wavs/301.wav| The weather forecast predicts snow tomorrow.
+/content/TTS-TT2/wavs/302.wav| How many steps are in your daily goal?
+/content/TTS-TT2/wavs/303.wav| The poem moved everyone who heard it.
+/content/TTS-TT2/wavs/304.wav| The old mill has been converted into a museum.
+/content/TTS-TT2/wavs/305.wav| I have lowered the chattering of my mind.
+/content/TTS-TT2/wavs/306.wav| He adjusted the settings to improve the picture quality.
+/content/TTS-TT2/wavs/307.wav| The document needs your signature on the last page.
+/content/TTS-TT2/wavs/308.wav| It's not too late to change your mind.
+/content/TTS-TT2/wavs/309.wav| We spend so much time in a job, but we spend so little time deciding which job to get into.
+/content/TTS-TT2/wavs/310.wav| Her birthday is coming up next Thursday.
+/content/TTS-TT2/wavs/311.wav| you must own equity, a piece of a business to gain your financial freedom.
+/content/TTS-TT2/wavs/312.wav| She felt a sense of accomplishment.
+/content/TTS-TT2/wavs/313.wav| Keep the windows closed, it's dusty outside.
+/content/TTS-TT2/wavs/314.wav| I think the most common mistake for humanity is believing you're going to be made happy because of some external circumstance.
+/content/TTS-TT2/wavs/315.wav| It's keeping you from seeing the beauty in everything and for being grateful for where you are.
+/content/TTS-TT2/wavs/316.wav| The Book Club meets on the first Friday of each month.
+/content/TTS-TT2/wavs/317.wav| This technology is revolutionising our approach.
+/content/TTS-TT2/wavs/318.wav| Status is your place in the social hierarchy.
+/content/TTS-TT2/wavs/319.wav| You will get rich by giving society what it wants, but does not yet know how to get at scale.
+/content/TTS-TT2/wavs/320.wav| She grows herbs and vegetables in her garden.
+/content/TTS-TT2/wavs/321.wav| Understand the ethical wealth creation is possible.
+/content/TTS-TT2/wavs/322.wav| She felt an overwhelming sense of joy.
+/content/TTS-TT2/wavs/323.wav| I don't get involved in politics.
+/content/TTS-TT2/wavs/324.wav| He adjusted his tie before the meeting.
+/content/TTS-TT2/wavs/325.wav| They cheered loudly when the team scored a goal.
+/content/TTS-TT2/wavs/326.wav| I usually take my coffee with cream and sugar.
+/content/TTS-TT2/wavs/327.wav| This keeps you from having an incredible experience.
+/content/TTS-TT2/wavs/328.wav| whenever the word should creeps up in your mind its guilt or social programming
+/content/TTS-TT2/wavs/329.wav| How long will the renovation take?
+/content/TTS-TT2/wavs/330.wav| You can increase your happiness over time and it starts with believing you can do it.
+/content/TTS-TT2/wavs/331.wav| How long does it take to get to the airport from here?
+/content/TTS-TT2/wavs/332.wav| Could you explain the instructions once more?
+/content/TTS-TT2/wavs/333.wav| She found a rare coin in her grandfather's collection.
+/content/TTS-TT2/wavs/334.wav| I know that's not original.
+/content/TTS-TT2/wavs/335.wav| Can you turn up the heating? It's too cold here.
+/content/TTS-TT2/wavs/336.wav| She made a delicious apple pie for dessert.
+/content/TTS-TT2/wavs/337.wav| He adjusted the rear view mirror before driving.
+/content/TTS-TT2/wavs/338.wav| I don't care about things that don't really matter.
+/content/TTS-TT2/wavs/339.wav| Could this be the reason for the delay?
+/content/TTS-TT2/wavs/340.wav| The agreement was finalized yesterday.
+/content/TTS-TT2/wavs/341.wav| He juggled three balls effortlessly.
+/content/TTS-TT2/wavs/342.wav| I can only inspire you and maybe give you a few hooks so you can remember.
+/content/TTS-TT2/wavs/343.wav| It was an unexpected but pleasant surprise.
+/content/TTS-TT2/wavs/344.wav| The trail leads to a beautiful waterfall.
+/content/TTS-TT2/wavs/345.wav| Why do we have to wake up so early?
+/content/TTS-TT2/wavs/346.wav| Seek wealth, not money or status.
+/content/TTS-TT2/wavs/347.wav| Please pass me the salt and pepper.
+/content/TTS-TT2/wavs/348.wav| I read philosophy.
+/content/TTS-TT2/wavs/349.wav| Let's go hiking in the mountains next weekend.
+/content/TTS-TT2/wavs/350.wav| Most people haven't figured this out yet.
+/content/TTS-TT2/wavs/351.wav| We spend so much time and effort trying to change the external world, other people and our own bodies.
+/content/TTS-TT2/wavs/352.wav| Play Terrated Games.
+/content/TTS-TT2/wavs/353.wav| It's hard to predict the outcome at this stage.
+/content/TTS-TT2/wavs/354.wav| She jotted down notes during the meeting.
+/content/TTS-TT2/wavs/355.wav| How do you pronounce this word?
+/content/TTS-TT2/wavs/356.wav| We accept the voice in our head as the source of all truth.
+/content/TTS-TT2/wavs/357.wav| One of the things I am trying to get rid of is the word should.
+/content/TTS-TT2/wavs/358.wav| The flowers in the garden are starting to bloom.
+/content/TTS-TT2/wavs/359.wav| Her love was contagious.
+/content/TTS-TT2/wavs/360.wav| He is not only smart but also very charismatic.
+/content/TTS-TT2/wavs/361.wav| He enjoys telling jokes and making people laugh.
+/content/TTS-TT2/wavs/362.wav| They stand together at the community center.
+/content/TTS-TT2/wavs/363.wav| She sells sea shells by the seashore.
+/content/TTS-TT2/wavs/364.wav| I meditate.
+/content/TTS-TT2/wavs/365.wav| They shared a pizza for dinner.
+/content/TTS-TT2/wavs/366.wav| He jogged every morning to stay fit.
+/content/TTS-TT2/wavs/367.wav| I need a vacation to relax and unwind.
+/content/TTS-TT2/wavs/368.wav| Pick an industry where you can play long-term games with long-term people.
+/content/TTS-TT2/wavs/369.wav| It's quite chilly outside, consider wearing a coat.
+/content/TTS-TT2/wavs/370.wav| We offer several different types of services.
+/content/TTS-TT2/wavs/371.wav| The internet has massively broadened the possible space of careers.
+/content/TTS-TT2/wavs/372.wav| The mind is just as malleable as the body.
+/content/TTS-TT2/wavs/373.wav| I'd like to reserve a table for 2 at your restaurant.
+/content/TTS-TT2/wavs/374.wav| The bus was delayed due to heavy traffic.
+/content/TTS-TT2/wavs/375.wav| The museum closes at 5 o'clock today.
+/content/TTS-TT2/wavs/376.wav| How long will it take to repair?
+/content/TTS-TT2/wavs/377.wav| She spends her free time volunteering at the animal shelter.
+/content/TTS-TT2/wavs/378.wav| Your feedback is very important to us.
+/content/TTS-TT2/wavs/379.wav| I have learnt a few things and some principles.
+/content/TTS-TT2/wavs/380.wav| I really value my time on this earth.
+/content/TTS-TT2/wavs/381.wav| I try to lay them out in a timeless manner where you can figure it out for yourself.
+/content/TTS-TT2/wavs/382.wav| To me, happiness is not about positive thoughts.
+/content/TTS-TT2/wavs/383.wav| You have to view the negative before you can aspire to and appreciate the positive.
+/content/TTS-TT2/wavs/384.wav| She tilted her head in confusion.
+/content/TTS-TT2/wavs/385.wav| Please ensure all your data is backed up.
+/content/TTS-TT2/wavs/386.wav| He enjoys woodworking in his spare time.
+/content/TTS-TT2/wavs/387.wav| The valley was covered in a thick blanket of fog.
+/content/TTS-TT2/wavs/388.wav| The clock stopped working. We need to replace the battery.
+/content/TTS-TT2/wavs/389.wav| The bridge was built to withstand heavy traffic.
+/content/TTS-TT2/wavs/390.wav| She misses living close to the ocean.
+/content/TTS-TT2/wavs/391.wav| This plant needs a lot of sunlight.
+/content/TTS-TT2/wavs/392.wav| What's your favorite kind of music?
+/content/TTS-TT2/wavs/393.wav| Happiness is a choice you make and a skill you develop.
+/content/TTS-TT2/wavs/394.wav| This cake is for her surprise party.
+/content/TTS-TT2/wavs/395.wav| He teaches mathematics at the local university.
+/content/TTS-TT2/wavs/396.wav| I don't hang around unhappy pp.
+/content/TTS-TT2/wavs/397.wav| I am most familiar with Silicon Valley, but generally people will forgive failures as long as you were honest and made a high integrity effort.
+/content/TTS-TT2/wavs/398.wav| The first person to actually point out my real specific knowledge was my mother.
+/content/TTS-TT2/wavs/399.wav| But when I actually look back at what I was uniquely good at and what I ended up spending my time doing.
+/content/TTS-TT2/wavs/400.wav| My mother uniquely provided against the background of hardship, unconditional and unfailing love.
+/content/TTS-TT2/wavs/401.wav| You could own equity as a small shareholder where you bought stock.
+/content/TTS-TT2/wavs/402.wav| The documentary we watched was incredibly enlightening.
+/content/TTS-TT2/wavs/403.wav| She feels nervous before every performance.
+/content/TTS-TT2/wavs/404.wav| He read the book before watching the movie.
+/content/TTS-TT2/wavs/405.wav| Labour leverage will impress your parents but don't waste your life chasing it.
+/content/TTS-TT2/wavs/406.wav| The wind russled the leaves quietly.
+/content/TTS-TT2/wavs/407.wav| When specific knowledge is taught, it's through Apprentice Ships, not schools.
+/content/TTS-TT2/wavs/408.wav| Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.
+/content/TTS-TT2/wavs/409.wav| I need to charge my phone, the battery is almost dead.
+/content/TTS-TT2/wavs/410.wav| I didn't realize how much this meant to you.
+/content/TTS-TT2/wavs/411.wav| You have to work up to the point where you can own equity in a business.
+/content/TTS-TT2/wavs/412.wav| How frequently does the bus run on weekend?
+/content/TTS-TT2/wavs/413.wav| explaining things and talking to people.
+/content/TTS-TT2/wavs/414.wav| Can you teach me how to play chess?
+/content/TTS-TT2/wavs/415.wav| Even personal bankruptcy can wipe the depths clean in good ecosystems.
+/content/TTS-TT2/wavs/416.wav| She did it as an aside, talking from the kitchen and she said it when I was 15 or 16 years old.
+/content/TTS-TT2/wavs/417.wav| She noticed a bird nesting in the tree outside her window.
+/content/TTS-TT2/wavs/418.wav| It's the oldest and most fout over form of leverage.
+/content/TTS-TT2/wavs/419.wav| Please turn down the music. It's too loud.
+/content/TTS-TT2/wavs/420.wav| He laughed so hard that he started coughing.
+/content/TTS-TT2/wavs/421.wav| Can we afford to take a financial risk like this?
+/content/TTS-TT2/wavs/422.wav| He is trying to learn how to play the saxophone.
+/content/TTS-TT2/wavs/423.wav| Let's not make any assumptions without evidence.
+/content/TTS-TT2/wavs/424.wav| But his degree wasn't accepted here, so he worked here in a hardware store.
+/content/TTS-TT2/wavs/425.wav| Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatsoever is hot right now.
+/content/TTS-TT2/wavs/426.wav| To get rich, you need leverage.
+/content/TTS-TT2/wavs/427.wav| Let's gather all the facts before making a decision.
+/content/TTS-TT2/wavs/428.wav| Viva pur immigrants.
+/content/TTS-TT2/wavs/429.wav| I have some analytical skills on how to make money.
+/content/TTS-TT2/wavs/430.wav| Please confirm your attendance by tomorrow.
+/content/TTS-TT2/wavs/431.wav| They danced under the stars that night.
+/content/TTS-TT2/wavs/432.wav| Please handle this package with care, it's fragile.
+/content/TTS-TT2/wavs/433.wav| Owning equity in a company basically means you own the upside.
+/content/TTS-TT2/wavs/434.wav| She specializes in environmental law.
+/content/TTS-TT2/wavs/435.wav| Raise money, apply your specific knowledge with accountability and show resulting good judgement.
+/content/TTS-TT2/wavs/436.wav| If it entertains you now but will bore you someday, it's a distraction. Keep looking.
+/content/TTS-TT2/wavs/437.wav| The time you put in, the capital you put into the company, these are at risk.
+/content/TTS-TT2/wavs/438.wav| She took a small sip of the hot tea.
+/content/TTS-TT2/wavs/439.wav| When you meet someone who is a natural at sales, you just know they are amazing.
+/content/TTS-TT2/wavs/440.wav| Labour means people working for you.
+/content/TTS-TT2/wavs/441.wav| Obviously they learned somewhere but they didn't learn it in a classroom setting.
+/content/TTS-TT2/wavs/442.wav| Building specific knowledge will feel like play to you, but will look like work to others.
+/content/TTS-TT2/wavs/443.wav| She whispered a secret into her friend's ear.
+/content/TTS-TT2/wavs/444.wav| He plays soccer every weekend.
+/content/TTS-TT2/wavs/445.wav| The project requires a lot of teamwork to succeed.
+/content/TTS-TT2/wavs/446.wav| My dad came to the US. He was a pharmacist in India.
+/content/TTS-TT2/wavs/447.wav| I have some sales skills which is a form of specific knowledge.
+/content/TTS-TT2/wavs/448.wav| Realize that in modern society, the downside risk is not that large.
+/content/TTS-TT2/wavs/449.wav| Please ensure the documents are confidential.
+/content/TTS-TT2/wavs/450.wav| When you own depth, you own guaranteed revenue streams and you own the downside.
+/content/TTS-TT2/wavs/451.wav| I only really want to do things for their own sake.
+/content/TTS-TT2/wavs/452.wav| Specific knowledge is found much more by pursuing your innate talents, your genuine curiosity and your passion.
+/content/TTS-TT2/wavs/453.wav| She often takes her dog to the park in the evenings.
+/content/TTS-TT2/wavs/454.wav| Light floods the room every morning through these curtains.
+/content/TTS-TT2/wavs/455.wav| If the ship was sinking, then literally the last person to get off was the captain.
+/content/TTS-TT2/wavs/456.wav| How do you solve this puzzle?
+/content/TTS-TT2/wavs/457.wav| Its ownership was a waste work.
+/content/TTS-TT2/wavs/458.wav| Follow your intellectual curiosity more than whatever is hot right now.
+/content/TTS-TT2/wavs/459.wav| Please bring me a cup of coffee with cream no sugar.
+/content/TTS-TT2/wavs/460.wav| I view scientists as being at the top of the production chain for humanity.
+/content/TTS-TT2/wavs/461.wav| He is studying to become a lawyer.
+/content/TTS-TT2/wavs/462.wav| م KR
+/content/TTS-TT2/wavs/463.wav| In almost any salary job, even one paying a lot per hour like a lawyer or a doctor, you are still putting in the hours and every hour you get paid.
+/content/TTS-TT2/wavs/464.wav| How do you reset the password for this account?
+/content/TTS-TT2/wavs/465.wav| I think we should start the meeting without him.
+/content/TTS-TT2/wavs/466.wav| Can we discuss the terms of the agreement once more?
+/content/TTS-TT2/wavs/467.wav| wealth is the thing you want.
+/content/TTS-TT2/wavs/468.wav| How often do the cleaning staff come to maintain the office?
+/content/TTS-TT2/wavs/469.wav| My whole value system was built around scientists and I wanted to be a great scientist.
+/content/TTS-TT2/wavs/470.wav| Accountability does come with real risks, but we are talking about a business context.
+/content/TTS-TT2/wavs/471.wav| Learn to sell, learn to build, if you can do both, you will be unstoppable.
+/content/TTS-TT2/wavs/472.wav| They celebrated their anniversary with a candlelit dinner.
+/content/TTS-TT2/wavs/473.wav| Don't partner with cynics and pessimists, their beliefs are self-fulfilling.
+/content/TTS-TT2/wavs/474.wav| Code and media are permissionless leverage.
+/content/TTS-TT2/wavs/475.wav| Turn left at the traffic light to reach the park.
+/content/TTS-TT2/wavs/476.wav| Her voice echoed through the empty hall.
+/content/TTS-TT2/wavs/477.wav| Without ownership your inputs are very closely tied to your outputs.
+/content/TTS-TT2/wavs/478.wav| We owe you something in the future for the work you did in the past.
+/content/TTS-TT2/wavs/479.wav| There's not really that much to fear in terms of failure and so people should take on a lot more accountability than they do.
+/content/TTS-TT2/wavs/480.wav| Any army of robots is freely available, it's just packed in data centers for heat and space efficiency.
+/content/TTS-TT2/wavs/481.wav| She knit him a scarf for his birthday
+/content/TTS-TT2/wavs/482.wav| Could you lower the temperature? It's getting hot in here.
+/content/TTS-TT2/wavs/483.wav| Without ownership, when you are sleeping, you are not earning.
+/content/TTS-TT2/wavs/484.wav| They arrived late at the party and missed the speech.
+/content/TTS-TT2/wavs/485.wav| People around you will see the quality of your work is higher.
+/content/TTS-TT2/wavs/486.wav| She paints landscapes that are very realistic.
+/content/TTS-TT2/wavs/487.wav| If you are paid for renting out your time, even lawyers and doctors, you can make some money.
+/content/TTS-TT2/wavs/488.wav| He plays guitar but wants to learn the drums too.
+/content/TTS-TT2/wavs/489.wav| Let's meet at the coffee shop on Mabel Avenue.
+/content/TTS-TT2/wavs/490.wav| This puzzle is more challenging than I initially thought.
+/content/TTS-TT2/wavs/491.wav| The crowd cheered as the astronaut took the stage.
+/content/TTS-TT2/wavs/492.wav| He founded multiple successful companies.
+/content/TTS-TT2/wavs/493.wav| The local bakery sells the best croissants I've ever tasted.
+/content/TTS-TT2/wavs/494.wav| She keeps all her appointments organized in a digital calendar.
+/content/TTS-TT2/wavs/495.wav| She enjoys teaching children how to paint.
+/content/TTS-TT2/wavs/496.wav| Why do cats always land on their feet?
+/content/TTS-TT2/wavs/497.wav| If you can't code, write books and blogs, record videos and podcasts.
+/content/TTS-TT2/wavs/498.wav| In the old days, the captain was expecting to go down with the ship.
+/content/TTS-TT2/wavs/499.wav| Tomorrow's forecast calls for rain and strong winds.
+/content/TTS-TT2/wavs/500.wav| Levelage is a force multiplier for your judgment.
